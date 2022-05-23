@@ -1,4 +1,4 @@
-> Hi, I'm **Phước Thành**. Welcome to my zone!!!
+> Hello, I'm **Phước Thành**. Welcome to my dashboard!!!
 
 ![view](https://komarev.com/ghpvc/?username=thanhlp18)
 
