@@ -8,7 +8,7 @@
 
 
 ## Learned Languages
-<img src="./assets/images/svg" width="20"> Javascript
+<img src="./assets/images/javascript.svg" width="20"> Javascript
 
 
 
